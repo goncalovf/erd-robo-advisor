@@ -1,0 +1,1 @@
+ERD for a I'm a fan of learning-by-doing, so to learn about database design, I built an ERD for a hypothetical investment robo-advising app, like [Betterment](https://www.betterment.com/)'s or [Wealthfront](https://www.wealthfront.com/)'s.
