@@ -1,6 +1,6 @@
 This is an ERD for a hypothetical investment robo-advising app, like [Betterment](https://www.betterment.com/)'s or [Wealthfront](https://www.wealthfront.com/)'s.
 
-[![Entity Relationship Diagram for a Hypothetical Investment Robo-Advisor](https://assets.digitalocean.com/articles/alligator/boo.svg "ERD for a Hypothetical Investment Robo-Advisor")](https://goncalovf.com/wp-content/uploads/2021/10/ERD-roboadvisor-goncalo-figueiredo.jpg)
+[![Entity Relationship Diagram for a Hypothetical Investment Robo-Advisor](https://github.com/goncalovf/erd-robo-advisor/blob/main/ERD-robo-advisor.jpg?raw=true "ERD for a Hypothetical Investment Robo-Advisor")](https://goncalovf.com/wp-content/uploads/2021/10/ERD-roboadvisor-goncalo-figueiredo.jpg)
 
 Of course, a robo-advising app is incredibly complex, so this ERD should only cover a small part of its functionality.
 
